@@ -1,0 +1,37 @@
+body {
+  font-family: monospace;
+  background: #1e1e1e;
+  color: #fefefe;
+  padding: 2rem;
+}
+.app {
+  max-width: 600px;
+  margin: auto;
+}
+.subtitle {
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+.form input,
+.form textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  background: #2c2c2c;
+  color: white;
+  border: 1px solid #444;
+}
+button {
+  background: #444;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.entry-card {
+  background: #2c2c2c;
+  margin-top: 1rem;
+  padding: 1rem;
+  border-left: 4px solid #ff5c5c;
+}
